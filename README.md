@@ -20,9 +20,6 @@
 
 ## 🧠 About Me
 
-```python
-## 🧠 About Me
-
  🎓 Aman Kumar
  🏫 B.E. CSE @ Chitkara University, Punjab  
  📊 CGPA: 8.26  
