@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-7166941b8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rai877503@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanrai05)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/amanrai15)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/amanrai05)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amanrai05&color=blueviolet&style=for-the-badge)
 
@@ -21,16 +21,20 @@
 ## 🧠 About Me
 
 ```python
-class AmanKumar:
-    def __init__(self):
-        self.name        = "Aman Kumar"
-        self.university  = "Chitkara University, Punjab"
-        self.degree      = "B.E. Computer Science Engineering"
-        self.cgpa        = 8.26
-        self.focus       = ["AI/ML", "Full-Stack Development", "DSA"]
-        self.languages   = ["Java", "Python", "JavaScript", "C/C++", "SQL"]
-        self.currently   = "Building intelligent systems & sharpening ML fundamentals"
-        self.fun_fact    = "Represented India on international exchange in Indonesia 🇮🇩"
+## 🧠 About Me
+
+- 🎓 Aman Kumar
+- 🏫 B.E. CSE @ Chitkara University, Punjab  
+- 📊 CGPA: 8.26  
+- 💡 Interests: AI/ML, Full-Stack Development, DSA  
+- 💻 Languages: Java, Python, JavaScript, C/C++, SQL  
+- 🚀 Currently: Building intelligent systems & improving ML fundamentals  
+- 🌍 Fun Fact: Represented India in Indonesia 🇮🇩  
+
+"Thanks for visiting! Let's build something amazing together"
+```
+
+---
 
 ## 🚀 What I'm Working On
 
