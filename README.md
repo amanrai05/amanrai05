@@ -23,13 +23,13 @@
 ```python
 ## 🧠 About Me
 
-- 🎓 Aman Kumar
-- 🏫 B.E. CSE @ Chitkara University, Punjab  
-- 📊 CGPA: 8.26  
-- 💡 Interests: AI/ML, Full-Stack Development, DSA  
-- 💻 Languages: Java, Python, JavaScript, C/C++, SQL  
-- 🚀 Currently: Building intelligent systems & improving ML fundamentals  
-- 🌍 Fun Fact: Represented India in Indonesia 🇮🇩  
+ 🎓 Aman Kumar
+ 🏫 B.E. CSE @ Chitkara University, Punjab  
+ 📊 CGPA: 8.26  
+ 💡 Interests: AI/ML, Full-Stack Development, DSA  
+ 💻 Languages: Java, Python, JavaScript, C/C++, SQL  
+ 🚀 Currently: Building intelligent systems & improving ML fundamentals  
+ 🌍 Fun Fact: Represented India in Indonesia 🇮🇩  
 
 "Thanks for visiting! Let's build something amazing together"
 ```
