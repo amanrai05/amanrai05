@@ -32,15 +32,6 @@ class AmanKumar:
         self.currently   = "Building intelligent systems & sharpening ML fundamentals"
         self.fun_fact    = "Represented India on international exchange in Indonesia 🇮🇩"
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together.")
-
-me = AmanKumar()
-me.say_hi()
-```
-
----
-
 ## 🚀 What I'm Working On
 
 - 🤖 Deepening foundations in **Machine Learning & Deep Learning**
