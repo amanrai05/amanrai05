@@ -5,7 +5,7 @@
 
 ### 🤖 AI/ML Engineer in the Making · Full-Stack Developer · DSA Enthusiast
 
-*CS Undergrad @ Chitkara University · CGPA 8.26 · International Exchange Scholar 🌏*
+*CS Undergrad @ Chitkara University · CGPA 8.54 · International Exchange Scholar 🌏*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-7166941b8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rai877503@gmail.com)
