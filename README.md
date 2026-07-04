@@ -25,7 +25,7 @@
 
  🎓 Aman Kumar
  🏫 B.E. CSE @ Chitkara University, Punjab  
- 📊 CGPA: 8.54  
+ 📊 CGPA: 8.55 
  💡 Interests: AI/ML, Full-Stack Development, DSA  
  💻 Languages: Java, Python, JavaScript, C/C++, SQL  
  🚀 Currently: Building intelligent systems & improving ML fundamentals  
